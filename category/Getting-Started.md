@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Getting Started
+title: Getting-Started
 ---
